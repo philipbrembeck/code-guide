@@ -3,57 +3,58 @@
     <img src="code-guide-logo.png" alt="Code Guide logo" width="192" height="192">
   </a>
   <br>
-  Code Guide
+  Code Guide (Deutsche Version)
 </h3>
 
 <p align="center" markdown="1">
-  Standards for developing consistent, flexible, and sustainable HTML and CSS.
+  Standards für die Entwicklung von konsistentem, flexiblem und nachhaltigem HTML und CSS.
   <br>
-  <a href="https://codeguide.co"><strong>Start reading ☞</strong></a>
+  <a href="https://philipbrembeck.github.io/code-guide/"><strong>Jetzt lesen ☞</strong></a>
 </p>
 
 ---
 
 ## Setup
 
-Code Guide is built on Jekyll and hosted on GitHub Pages. To install Jekyll:
+Code Guide ist auf Jekyll aufgebaut und wird auf GitHub Pages gehostet. 
+Um Jekyll zu installieren, führe folgenden Befehl aus:
 
 ```sh
 gem install jekyll
 ```
 
-To start the local server:
+Um den lokalen Server zu starten: 
 
 ```sh
 jekyll serve
 ```
 
-Open `localhost:4000` in your browser.
+Öffne `localhost:4000` in deinem Browser.
 
-## License
+## Lizenz
 
-Released under MIT by, and copyright, @mdo.
+Freigegeben unter der MIT Lizenz und urheberrechtlich geschützt von @mdo.
 
-## Translations
+## Übersetzungen
 
-Translations are maintained by their creators and may not always be up to date with the original here.
+Übersetzungen werden von deren Verfassern gepflegt und sind deswegen nicht immer auf dem neuesten Stand.
 
-- [Chinese](http://zoomzhao.github.io/code-guide/) - Translated by [Zoom Zhao](https://github.com/ZoomZhao)
-- [Chinese](http://codeguide.bootcss.com/) - Translated by [Wang Sai](https://github.com/wangsai)
-- [Dutch](http://chunfeilung.github.io/code-guide/) - Translated by [Chun Fei Lung](https://github.com/chunfeilung)
-- [French](http://pixelastic.github.io/code-guide/) - Translated by [Tim Carry](https://github.com/pixelastic/)
-- [German](http://BackendButters.github.io/code-guide/) - Translated by [BackendButters](https://github.com/BackendButters)
-- [Hindi](https://hidaytrahman.github.io/code-guide/) - Translated by [Hidaytullah Rahmani](https://github.com/hidaytrahman)
-- [Indonesian](http://diagramatics.github.io/code-guide-id) - Translated by [Steven Sinatra](http://diagramatics.me)
-- [Japanese](http://kia-king.com/code-guide/) - Translated by [Kia King Ishii](https://github.com/kiaking)
-- [Korean](http://code-guide.aliencube.org/) - Translated by [Aliencube](https://github.com/aliencube)
-- [Persian](https://cg.arash-hatami.ir/) - Translated by [Arash Hatami](https://github.com/hatamiarash7)
-- [Polish](http://bondarewicz.github.io/code-guide/) - Translated by [Łukasz Bondarewicz](https://github.com/bondarewicz)
-- [Portuguese](http://diegoeis.github.io/code-guide/) - Translated by [Diego Eis](http://tableless.com.br/)
-- [Romanian](http://vmazare.github.io/code-guide-romanian/) - Translated by [Valeriu Mazare](https://github.com/vmazare)
-- [Russian](http://sadcitizen.github.io/code-guide/) - Translated by [Eugene Abrosimov](https://github.com/sadcitizen)
-- [Traditional Chinese](https://codeguide.intersection.tw) - Translated by [Yuming Cheung](https://github.com/ymcheung)
+- [Chinesisch](http://zoomzhao.github.io/code-guide/) - Übersetzt von [Zoom Zhao](https://github.com/ZoomZhao)
+- [Chinesisch](http://codeguide.bootcss.com/) - Übersetzt von [Wang Sai](https://github.com/wangsai)
+- [Niederländisch](http://chunfeilung.github.io/code-guide/) - Übersetzt von [Chun Fei Lung](https://github.com/chunfeilung)
+- [Französisch](http://pixelastic.github.io/code-guide/) - Übersetzt von [Tim Carry](https://github.com/pixelastic/)
+- [Deutsch](http://BackendButters.github.io/code-guide/) - Übersetzt von [BackendButters](https://github.com/BackendButters)
+- [Hindi](https://hidaytrahman.github.io/code-guide/) - Übersetzt von [Hidaytullah Rahmani](https://github.com/hidaytrahman)
+- [Indoneisch](http://diagramatics.github.io/code-guide-id) - Übersetzt von [Steven Sinatra](http://diagramatics.me)
+- [Japanisch](http://kia-king.com/code-guide/) - Übersetzt von [Kia King Ishii](https://github.com/kiaking)
+- [Koreanisch](http://code-guide.aliencube.org/) - Übersetzt von [Aliencube](https://github.com/aliencube)
+- [Persisch](https://cg.arash-hatami.ir/) - Übersetzt von [Arash Hatami](https://github.com/hatamiarash7)
+- [Polnisch](http://bondarewicz.github.io/code-guide/) - Übersetzt von [Łukasz Bondarewicz](https://github.com/bondarewicz)
+- [Portugesisch](http://diegoeis.github.io/code-guide/) - Übersetzt von [Diego Eis](http://tableless.com.br/)
+- [Rumänisch](http://vmazare.github.io/code-guide-romanian/) - Übersetzt von [Valeriu Mazare](https://github.com/vmazare)
+- [Russich](http://sadcitizen.github.io/code-guide/) - Übersetzt von [Eugene Abrosimov](https://github.com/sadcitizen)
+- [Traditionelles Chinesisch](https://codeguide.intersection.tw) - Übersetzt von [Yuming Cheung](https://github.com/ymcheung)
 
-Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
+Hast du auch eine Übersetzung, die du hier verlinken möchtest? Öffne einen Pull-Request und füge den Link hier hinzu. Bitte halte die Links in alphabetischer Reihenfolge. 
 
 <3
