@@ -1,8 +1,8 @@
-name: Code Guide by @mdo
-description: Standards for developing consistent, flexible, and sustainable HTML and CSS.
-url: https://codeguide.co
+name: Code Guide von @mdo
+description: Standards für die Entwicklung von konsistentem, flexiblem und nachhaltigem HTML und CSS.
+url: https://philipbrembeck.github.io/code-guide/
 permalink: pretty
 sass:
   style: compressed
 version: 4.0.0
-og_image: https://raw.githubusercontent.com/mdo/code-guide/gh-pages/code-guide-social.png
+og_image: https://raw.githubusercontent.com/philipbrembeck/code-guide/gh-pages/code-guide-social.png
